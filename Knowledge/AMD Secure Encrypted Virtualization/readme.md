@@ -1,5 +1,5 @@
 # AMD Secure Encrypted Virtualization
-## Home:
+# Home:
 - https://www.amd.com/en/developer/sev.html
 - https://www.amd.com/en/processors/amd-secure-encrypted-virtualization
 
